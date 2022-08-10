@@ -1,0 +1,11 @@
+{
+    "AWSEBDockerrunVersion": "1",
+    "Image": {
+      "Name": "registry.hub.docker.com/2160003120/runaay"
+    },
+    "Ports": [
+      {
+        "ContainerPort": 80
+      }
+    ]
+  }
