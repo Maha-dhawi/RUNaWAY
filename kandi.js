@@ -2,7 +2,8 @@
 // define variables
 var canvas = document.getElementById('canvas');
 var ctx = canvas.getContext('2d');
-var player, score, stop, ticker;
+var player, stop, ticker;
+var score = 500;
 var ground = [], water = [], enemies = [], environment = [];
 
 // platform variables
